@@ -39,6 +39,7 @@ First, a set of warm-up problems for everyone
 */
 // Q0: How many human officers are there?
 var humanCount = humanOfficers.count
+// print(humanOfficers.count)
 print(humanCount)
 
 
